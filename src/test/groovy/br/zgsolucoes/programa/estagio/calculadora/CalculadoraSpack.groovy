@@ -4,7 +4,7 @@ import spock.lang.Specification
 import spock.lang.Unroll
 
 @CompileStatic
-class CalculadoraSpac extends Specification {
+class CalculadoraSpec extends Specification {
     @Unroll
     void "teste realizar soma #numero1 com #numero2 a saida esperada e #saida"() {
         given: 'Tenho uma calculadora limpa'
