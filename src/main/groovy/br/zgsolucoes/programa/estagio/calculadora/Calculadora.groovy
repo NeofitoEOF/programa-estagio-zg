@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 @CompileStatic
 class Calculadora {
     BigDecimal somar(final BigDecimal n1, final BigDecimal n2) {
-        return n1.plus(n2)
+        return n1 + n2
     }
     BigDecimal subtrair(final BigDecimal n1, final BigDecimal n2) {
         return n1 - n2
