@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.zgsolucoes.programa.estagio.calculadora.CalculadoraSpac" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-11-11T15:54:58" hostname="neofito-NM70-I" time="0.602">
+  <properties/>
+  <testcase name="teste realizar soma #numero1 com #numero2 a saida esperada e #saida" classname="br.zgsolucoes.programa.estagio.calculadora.CalculadoraSpac" time="0.548"/>
+  <testcase name="teste realizar subtrair #numero1 com #numero2 a saida esperada e #saida" classname="br.zgsolucoes.programa.estagio.calculadora.CalculadoraSpac" time="0.004"/>
+  <testcase name="teste realizar multiplicacao #numero1 com #numero2 a saida esperada e #saida" classname="br.zgsolucoes.programa.estagio.calculadora.CalculadoraSpac" time="0.002"/>
+  <testcase name="teste realizar divisao #numero1 com #numero2 a saida esperada e #saida" classname="br.zgsolucoes.programa.estagio.calculadora.CalculadoraSpac" time="0.005"/>
+  <testcase name="Calcular o delta" classname="br.zgsolucoes.programa.estagio.calculadora.CalculadoraSpac" time="0.008"/>
+  <testcase name="Calcular raiz a primeira raiz " classname="br.zgsolucoes.programa.estagio.calculadora.CalculadoraSpac" time="0.006"/>
+  <testcase name="Calcular raiz a segunda raiz " classname="br.zgsolucoes.programa.estagio.calculadora.CalculadoraSpac" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
